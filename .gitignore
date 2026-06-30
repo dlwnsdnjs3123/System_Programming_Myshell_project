@@ -1,0 +1,8 @@
+document.docx
+
+myshell
+*.o
+*~
+
+.DS_Store
+Thumbs.db
